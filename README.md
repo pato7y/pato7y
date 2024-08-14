@@ -36,7 +36,6 @@ Hi, I'm Serhat Yıldız, a third-year irregular computer engineering student at 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pato7y&show_icons=true&locale=en" alt="pato7y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pato7y&" alt="pato7y" /></p>
-![snake gif](https://github.com/pato7y/pato7y/blob/output/github-contribution-grid-snake.gif)
 
 
 
