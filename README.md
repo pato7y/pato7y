@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Serhat Yıldız, a third-year irregular computer engineering student at Çankaya University. I'm eager to learn, explore, and develop my skills, and I share projects via GitHub. Additionally, I'm interested in discovering my strengths within various areas such as full-stack development (ASP.NET, Bootstrap, C#, JavaScript, CSS, HTML), cybersecurity, IoT, web and mobile app development (Flutter), and game development (Unity with C#). I'm open to learning and continuously improving myself. Furthermore, I would be grateful for any opportunities.
+I'm Serhat Yıldız,I am computer engineer who graduated from Çankaya University in 2025 june I currently working as devops engineer(cloud,devops,software engineering) . I'm eager to learn, explore, and develop my skills, and I share projects via GitHub. Additionally, I'm interested in discovering my strengths within various areas such as devops and full-stack development (Dotnet, Bootstrap, C#, JavaScript, CSS, HTML, Python ,CI/CD,Docker,kubernetes,openshift,Render,Cloud), cybersecurity, IoT, web and mobile app development (Flutter),I I'm open to learning and continuously improving myself. Furthermore, I would be grateful for any opportunities.
 
 <h1 align="center">Hi 👋, I'm Serhat</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineer(Devops,cloud,MLOps,Software Engineering,Backend)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pato7y&label=Profile%20views&color=0e75b6&style=flat" alt="pato7y" /> </p>
 
