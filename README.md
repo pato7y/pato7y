@@ -116,6 +116,10 @@ I'm Serhat Yıldız,I am computer engineer who graduated from Çankaya Universit
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Cloud" width="40" height="40"/>
   </a>
+  <a href="https://www.vmware.com/products/esxi-and-esx.html" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/vmware.svg" alt="vmware esxi" width="40" height="40"/>
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pato7y&show_icons=true&locale=en&layout=compact" alt="pato7y" /></p>
